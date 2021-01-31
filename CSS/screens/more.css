@@ -1,0 +1,9 @@
+.icon-row {
+  margin-top: 35px;
+}
+
+.more-suggestions {
+  margin: 50px;
+  padding-top: 10px;
+  border-top: var(--main-border);
+}
